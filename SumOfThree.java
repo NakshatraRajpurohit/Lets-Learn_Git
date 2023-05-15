@@ -5,7 +5,7 @@ public class SumOfThree{
 	    int a = 5;
             int b = 6;
             int c = 0;
-            System.out.println(a+b+c);
+            System.out.println("sum of three variable"+ (a+b+c));
 
 	}
 
